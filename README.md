@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Intro
+
+I did this project following the course of Brad Traversy to learn React. I am still learning and I think I will be forever but that is nice. I cant believe it took me 2 months to finnish this little project, but valualble lessons were learned
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
